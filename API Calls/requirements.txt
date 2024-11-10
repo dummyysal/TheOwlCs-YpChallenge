@@ -1,0 +1,6 @@
+pandas
+tensorflow
+FastApi
+pyarrow
+scikit-learn
+torch
