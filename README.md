@@ -2,7 +2,11 @@
 
 OWL is Cyber security solution that integrates machine learning models, APIs, and NLP capabilities to identify security threats and offer  recommendations. 
 Created as part of the IEEE CS ENIT SBC initiative for the CS & YP Challenge at TSYP12.
- [the trained models ](https://drive.google.com/file/d/11z6MycM7LWL-EbAY7qxGYRXJ28bWlZc1/view?usp=sharing)
+
+
+ [Download he trained models ](https://drive.google.com/file/d/11z6MycM7LWL-EbAY7qxGYRXJ28bWlZc1/view?usp=sharing)
+
+ 
  [Link for demo test video on eNSP topology](https://drive.google.com/file/d/1lBn2-YO1pCSV79s8L4tD8nClAN60rY6L/view?usp=sharing)
 
 ## 🛠️ Project Structure
